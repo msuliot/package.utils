@@ -7,7 +7,7 @@ setup(
     author_email="michael@suliot.com",
     description="Some basic helper functions for AI projects",
     long_description=open('README.md').read(),
-    url="https://github.com/msuliot/package-helpers.git",
+    url="https://github.com/msuliot/package.utils.git",
     packages=find_packages(),
     install_requires=[
         
