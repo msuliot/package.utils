@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="utils",
-    version="0.2.0",
+    name="msuliot.utils",
+    version="1.24.511",
     author="Michael Suliot",
     author_email="michael@suliot.com",
     description="Some basic helper functions for AI projects",
